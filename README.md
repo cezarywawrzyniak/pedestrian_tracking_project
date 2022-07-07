@@ -23,7 +23,7 @@ Samo śledzenie przechodniów odbywa się przy pomocy modelu grafu czynników zb
 <img src="hhttps://github.com/cezarywawrzyniak/pedestrian_tracking_project/blob/main/drawings/mt2.png" width=40% height=40%>
 
 - Rysunek grafu:
-<img src="https://github.com/cezarywawrzyniak/pedestrian_tracking_project/blob/main/drawings/fg.png" width=70% height=70%>
+<img src="https://github.com/cezarywawrzyniak/pedestrian_tracking_project/blob/main/drawings/fg.png" width=65% height=65%>
 
 Do ostatecznego wnioskowania wykorzystywany jest algorytm BeliefPropagation także z biblioteki pgmpy. Na wyjście programu podawane są po kolei numery prostokątów z klatki poprzedniej do której przypisane zostały aktualne prostokąty (wartość '-1' oznacza nowe obiekty)
 
